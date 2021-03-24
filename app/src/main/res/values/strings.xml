@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Belajar</string>
+    <string name="txt_hint">Type in your name here</string>
+</resources>
